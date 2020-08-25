@@ -3,7 +3,7 @@ title: 'Qantas Airways'
 tags:
 - research
 date: 2018-02-25 19:07:50 +0000
-banner_image: "/uploads/2017/11/14/airways.jpg"
+banner_image: "/uploads/2018/02/25/airways.jpg"
 sub_heading: 'An In Depth Analysis of what's happening at Qantas'
 slug: ''
 ---
