@@ -1,5 +1,5 @@
 ---
-title: 'Electric Vehicle '
+title: 'Qantas Airways'
 tags:
 - research
 date: 2018-02-25 19:07:50 +0000
@@ -7,8 +7,11 @@ banner_image: "/uploads/2018/02/25/car.jpg"
 sub_heading: 'Human centered design in the electric vehicle era '
 slug: ''
 ---
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+We initiate a coverage for Qantasin an objective manner. The estimatesin our research are derived from our research framework which takes into account the domestic and international aviation industry conditions, competitive advantages, and past financial
+performance.
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+The in-depth analysis of our research has also factored in management
+capabilities, catalysts, and possibilitiesfor Qantas. We have also considered the impact
+of COVID-19 on Qantas and forecasted its future performance accordingly
 
-Dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+[Download full report](/uploads/2017/11/14/Qantas.pdf).
