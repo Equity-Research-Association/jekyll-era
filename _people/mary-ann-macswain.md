@@ -1,16 +1,16 @@
 ---
-title: Mary-Ann MacSwain
+title: Jonathan Low
 date: 2016-11-08 00:00:00 +0000
 description: ''
-email: maryanne@belkirkcollege.ca
-linkedin: ''
+email: jonlow990117@gmail.com
+linkedin: 'https://www.linkedin.com/in/jonlowjy/'
 role:
-- staff
+- Director
 - advisor
 slug: ''
-sub_heading: Research Chair
+sub_heading: Founder & Director of Research
 tags:
-- radssfdfdsfds fdfasdfd saffdssfd
+- Research Cofounder Marketing
 thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
 layout: 'person'
 ---
