@@ -7,7 +7,7 @@ linkedin: ''
 role:
 - President
 slug: ''
-sub_heading: Co-Founder
+sub_heading: Co-Founder & Director of Sponsorships
 tags:
 - Research Cofounder
 thumbnail: "/uploads/2017/11/14/Corey.jpeg"
