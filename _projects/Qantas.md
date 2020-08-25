@@ -24,7 +24,12 @@ We estimate the intrinsic value of Qantas to be $4.24/share through a DCF model.
 - Inherent risks in the airline industry: volatility in fuel price and foreign exchange, increasing intensity of competition, exposure to the fluctuation of economy, irreducible risks arising from exogenous events.
 - Direct impact of COVID-19: possibility of more prolonged crisis than expected, uncertainty of pace of recovery, significant labour surplus, increased debt load, uncertainty of further debt/equity raising.
 
+## Did you find it interesting?
+[Download the full report](/uploads/2017/11/14/Qantas.pdf)
+
 ## Team
 
 - [Jonathan Low](/about/jonathan/)
-- [Corey](/belkirk-jekyll-demo/about/mary-ann-macswain/)
+- [Corey Guangzhen Jin ](/about/corey/)
+- [Simon Lim Yit Xiang](/about/simon/)
+- [Zherui Li](/about/zheuri-li/)
