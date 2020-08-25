@@ -17,7 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 - description: Performing collaborative research and providing services to support
-      the Health Sector.
+    the Health Sector.
   heading: Health
   icon: "/uploads/2017/11/13/health.png"
 sub_heading: Spotlight for Equity Research Enthusiasts
@@ -29,4 +29,5 @@ menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
