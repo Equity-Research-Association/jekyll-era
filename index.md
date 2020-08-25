@@ -8,18 +8,15 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: help investors make better-informed investment decisions
+  heading: Recommendation
   icon: "https://img.icons8.com/nolan/64/bonds.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+- description: holistically access both quantitative and qualitative factors
+  heading: Analyze
+  icon: "https://img.icons8.com/nolan/64/equity-security.png"
+- description: understand and predict a company's intrinsic value with analytical skills
+  heading: Predict
+  icon: "https://img.icons8.com/nolan/64/investment.png"
 sub_heading: Welcome Home!
 hero_button:
   text: Learn more
