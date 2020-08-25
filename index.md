@@ -5,8 +5,6 @@ layout: landing-page
 heading: Are you an Equity Research Enthusiast?
 partners:
 - "/img/umsu1.gif"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
 services:
 - description: help investors make better-informed investment decisions
   heading: Recommendation
@@ -17,7 +15,7 @@ services:
 - description: understand and predict a company's intrinsic value with analytical skills
   heading: Predict
   icon: "https://img.icons8.com/nolan/64/investment.png"
-sub_heading: Welcome Home!
+sub_heading: Welcome Home
 hero_button:
   text: Learn more
   href: "/about"
