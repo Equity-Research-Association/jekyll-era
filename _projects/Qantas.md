@@ -1,10 +1,10 @@
 ---
-title: Portable EEG Montoring Device
+title: Qantas
 date: 2016-04-20 00:00:00 +0000
-categories: []
-description: A portable device for epileptic patients.
+categories: [airways, research]
+description: Learn the happenings at Qantas
 banner_image: "/uploads/2018/02/17/airways.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+sub_heading: Learn the happenings at Qantas
 tags:
 - engineering
 - research
@@ -30,8 +30,8 @@ The EEG is monitored and recorded using a series of electrodes built into the he
 ## Team
 
 ### Staff
-- [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
-- [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
+- [Jonathan Low](/belkirk-jekyll-demo/about/kellie-brewer/)
+- [Corey](/belkirk-jekyll-demo/about/mary-ann-macswain/)
 
 ### Students
 - Andrew Convington
