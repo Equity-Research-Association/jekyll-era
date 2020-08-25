@@ -4,7 +4,7 @@ banner_image: "/img/banner-new.jpg"
 layout: landing-page
 heading: Are you an Equity Research Enthusiast?
 partners:
-- "/uploads/2017/11/13/stem.png"
+- "/img/umsu1.gif"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
