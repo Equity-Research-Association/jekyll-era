@@ -15,8 +15,8 @@ thumbnail: "/uploads/2017/11/14/Jonathan.jpeg"
 layout: 'person'
 ---
 
-Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
+I co-founded Equity Research Association (ERA) with the aim of showcasing the objective research done by our analysts, developing and honing our skillsets in a supportive environment as well as a platform for students of similar passion.
 
-Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
+Previously, I held an analyst position in ZeroCap, a digital asset firm for private clients. I performed equity research analysis on investing opportunities for private clients, high net worth individuals and institutions globally. I also assisted in the R&D of multiple start-up ventures.
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Apart from academics, I'm passionate about value and growth investing, cooking and fitness. Currently, I have been looking into Chart and Pattern analysis, Derivatives and Blockchain in Python.

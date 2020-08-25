@@ -1,18 +1,23 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
-role:
-- advisor
-- staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
-sub_heading: Professor
-email: murphy@belkirkcollege.com
+title: Simon Lim
+date: 2016-11-08 00:00:00 +0000
+description: ''
+email: simonlyx88@gmail.com
 linkedin: ''
+role:
+- President
+slug: ''
+sub_heading: Co-Founder & President
+tags:
+- Research Cofounder President
+thumbnail: "/uploads/2017/11/14/Simon.jpeg"
 layout: 'person'
 ---
 
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+I am an equity researcher with over 2 years of experience. Passionate about financial markets and stock-picking strategies. I do my due diligence and market research, convert processable data into models to value firms' growth potential.
 
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
+Love entrepreneurship and building sustainable startups. I am researching on the technology-cum-renewable energy sector.
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Participant of international student exchange program (AFS), member of the World Scout Organisation and an avid King Scout. Constantly pushing boundaries, stepping out of my comfort zone into the real world and embrace changes.
+
+Seeking opportunities to gain new knowledge regarding investment, finance and entrepreneurship. If you have a project I can help with, please get in touch. 
