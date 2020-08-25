@@ -11,7 +11,7 @@ services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+  icon: "https://img.icons8.com/nolan/64/bonds.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
