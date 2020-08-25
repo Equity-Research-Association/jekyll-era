@@ -20,14 +20,14 @@ menu:
 
 The Equity Research Association (ERA) is a student-run club based in the University of Melbourne, devoted to providing comprehensive analysis and reports on companies, and to developing essential researching and technical skills amongst our student community.
 
-Our Aims
+## Our Aims
 
-Provide members insight into the equity research industry, specifically how it acts to support the operations of other industries such as asset management and investment banking.
+1. Provide members insight into the equity research industry, specifically how it acts to support the operations of other industries such as asset management and investment banking.
 
-To offer members a clear picture of careers in equity research and enable members to be updated with the recent equity research career opportunities, as well as networking opportunities with equity research firms.
+2. To offer members a clear picture of careers in equity research and enable members to be updated with the recent equity research career opportunities, as well as networking opportunities with equity research firms.
 
-To enhance members’ understanding about how fundamental factors such as corporate governance, competitive advantages and industry landscape affect the prospects of real-world companies.
+3. To enhance members’ understanding about how fundamental factors such as corporate governance, competitive advantages and industry landscape affect the prospects of real-world companies.
 
-To equip members with practical skills on researching the fundamentals of real-world companies and industries. Specifically, with a focus on sourcing information, direction of research and analysing companies’ future prospects.
+4. To equip members with practical skills on researching the fundamentals of real-world companies and industries. Specifically, with a focus on sourcing information, direction of research and analysing companies’ future prospects.
 
-To act as a platform for like-minded students to regularly interact and discuss their findings from their research.
+5. To act as a platform for like-minded students to regularly interact and discuss their findings from their research.
