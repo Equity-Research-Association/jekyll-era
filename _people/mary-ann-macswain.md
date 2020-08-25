@@ -3,7 +3,7 @@ title: Jonathan Low
 date: 2016-11-08 00:00:00 +0000
 description: ''
 email: jonlow990117@gmail.com
-linkedin: 'https://www.linkedin.com/in/jonlowjy/'
+linkedin: ''
 role:
 - Director
 - advisor
@@ -11,7 +11,7 @@ slug: ''
 sub_heading: Founder & Director of Research
 tags:
 - Research Cofounder Marketing
-thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
+thumbnail: "/uploads/2017/11/14/Jonathan.jpeg"
 layout: 'person'
 ---
 
