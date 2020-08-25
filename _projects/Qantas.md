@@ -12,28 +12,19 @@ slug: ''
 ---
 
 ## Overview
+We initiate a coverage for Qantas in an objective manner. The estimates in our research are derived from our research framework which takes into account the domestic and international aviation industry conditions, competitive advantages, and past financial
+performance.
 
-Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
+The in-depth analysis of our research has also factored in management capabilities, catalysts, and possibilities for Qantas. We have also considered the impact of COVID-19 on Qantas and forecasted its future performance accordingly
 
-Epileptic episodes are very hard to predict, and virtually impossible to accurately record outside of a clinical environment. This project aims to provide a portable device that can be used to measure EEG (electroencephalography) outside of the clinical environment.
+## Valuations
+We estimate the intrinsic value of Qantas to be $4.24/share through a DCF model. The current share price of $3.50 represents a 17.5% discount. Currently trading at trailing P/E 6.12 and EV/EBITDA 3.58, Qantas’ relative valuation is at appropriate level vs industry peers. Upon considering the valuation and all the factors discussed, we hold a Neutral outlook for Qantas
 
-## Design
-The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
-
-The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
-
-## Practical Applications
-- Ambulatory Care
-- Automated response for solitary patients
-- Long-term data collection and analysis
+## Risks
+- Inherent risks in the airline industry: volatility in fuel price and foreign exchange, increasing intensity of competition, exposure to the fluctuation of economy, irreducible risks arising from exogenous events.
+- Direct impact of COVID-19: possibility of more prolonged crisis than expected, uncertainty of pace of recovery, significant labour surplus, increased debt load, uncertainty of further debt/equity raising.
 
 ## Team
 
-### Staff
-- [Jonathan Low](/belkirk-jekyll-demo/about/kellie-brewer/)
+- [Jonathan Low](/about/jonathan/)
 - [Corey](/belkirk-jekyll-demo/about/mary-ann-macswain/)
-
-### Students
-- Andrew Convington
-- Mark Bradbury
-- Ashley O'Brien
