@@ -13,19 +13,19 @@ layout: default
 		<div class="content">
 			<div class="grid-layout">
 				<div class="container pure-g">
-					{% for project in site.projects %}
+					{% for project in site.research %}
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
 							<div class="card-header">
-							{% if project.banner_image and project.banner_image != "" %}
+							{% if research.banner_image and research.banner_image != "" %}
 							<img src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
 							{% else %}
-								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ project.title }}">
+								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ research.title }}">
 							{% endif %}
 							</div>
 							<div class="card-body">
-								<h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
-								<p>{{ project.sub_heading | slice: 0, 80 }}</p>
+								<h3><a href="{{ project.url | absolute_url }}">{{ research.title }}</a></h3>
+								<p>{{ research.sub_heading | slice: 0, 80 }}</p>
 							</div>
 						</div>
 					</div>
