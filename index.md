@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/img/banner-new.png"
 layout: landing-page
 heading: Equity Research Association
 partners:
