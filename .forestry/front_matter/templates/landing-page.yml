@@ -80,3 +80,4 @@ fields:
   default: home
 pages:
 - index.md
+- membership.md
