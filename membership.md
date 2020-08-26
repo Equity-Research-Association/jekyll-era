@@ -1,4 +1,5 @@
 ---
+title: Membership
 heading: Become a member today
 sub_heading: Become a member today
 layout: home
