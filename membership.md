@@ -8,9 +8,12 @@ hero_button:
   text: ''
   href: ''
 textline: ''
-services: []
-show_news: false
+services:
+- heading: Title 1
+  description: Description
+  icon: ''
+show_news: true
 partners: []
-show_staff: false
+show_staff: true
 
 ---
