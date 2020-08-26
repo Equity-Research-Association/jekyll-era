@@ -4,7 +4,6 @@ banner_image: "/img/banner-new.jpg"
 layout: landing-page
 heading: Are you an Equity Research Enthusiast?
 partners:
-- "/img/umsu1.gif"
 services:
 - description: help investors make better-informed investment decisions
   heading: Recommendation
