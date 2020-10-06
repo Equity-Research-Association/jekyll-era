@@ -19,15 +19,10 @@ On Monday 12 October from 7 pm-8 pm, join our launch-off event and hear from a p
 
 Pursuing a Career in Equity Research’ is ERA’s maiden event. Featuring a panel of prominent professionals within the industry, attendees will have the exclusive opportunity to gain unparalleled insight into various careers in equity research. You are encouraged to come prepared and directly engage with our panellists!
 
-* 
+## Are you interested?
 
-## Did you find it interesting?
+[Click here for the link to Signup](https://forms.gle/nB8k2yH1rNriDmB26)
 
-[Download the full report]()
+## For more information, reach out to
 
-## Team
-
-* [Jonathan Low](/about/jonathan/)
-* [Corey Guangzhen Jin ](/about/corey/)
-* [Simon Lim Yit Xiang](/about/simon/)
-* [Zherui Li](/about/zheuri-li/)
+* [Matthew Lao]()
