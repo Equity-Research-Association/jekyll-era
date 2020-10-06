@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _marketing
-  label: Marketing Team
-  create: all
-  match: "**/*"
-  templates:
-  - person
 - type: heading
   label: Content
 - type: jekyll-posts
@@ -34,6 +27,13 @@ sections:
 - type: directory
   path: _executive
   label: Executive Team
+  create: all
+  match: "**/*"
+  templates:
+  - person
+- type: directory
+  path: _marketing
+  label: Marketing Team
   create: all
   match: "**/*"
   templates:
