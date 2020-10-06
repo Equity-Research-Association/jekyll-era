@@ -1,21 +1,21 @@
 ---
-title: Rachel Ong
+title: Nirmala Rao
 date: '2016-11-08T00:00:00.000+00:00'
 description: ''
-email: ongrs@student.unimelb.edu.au
-linkedin: https://www.linkedin.com/in/rachel-ong-99a1b017a/
+email: NDhanawada@student.unimelb.edu.au
+linkedin: https://www.linkedin.com/in/thedhanawada/
 role:
 - President
 slug: ''
 sub_heading: Director
 tags:
 - Research Cofounder
-thumbnail: "/uploads/2020/10/06/circle-cropped-5.png"
+thumbnail: "/uploads/2020/10/06/screen-shot-2020-10-07-at-2-29-45-am.png"
 layout: person
 
 ---
-Actuarial science student and co-founder of Equity Research Association at University of Melbourne;
-
-passionate about exploring mathematical theories and problems, and equipped with skills in R, mathematics, Microsoft Excel as well as basic data analysis;
-
-currently seeking for opportunities in the field of actuarial science, data analysis and financial services while aiming at developing a strong personal network
+Driven by an entrepreneurial spirit and inspired by Carl Sagan, I am up for sale to design software systems that can create new business opportunities and solve challenges in an enterprise. I enjoy exploring opportunities within the organization for the consumption of technologies from startups & open source stacks.  
+  
+I empathize with the experience of the end-user on utilizing a system and prioritize their ease of use and delight. I am super keen on nurturing the culture of innovation within an organization through the various schools of thought.  
+  
+My primary skillset is to architect technical solutions for business opportunities and challenges the enterprise. My skill is to solve, independent of the technology. Over the years I have built myself to be immune to the change in technology and have focused my energy on learning, applying & evolving new concepts and also enabling fellow colleagues.
