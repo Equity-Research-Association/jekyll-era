@@ -10,7 +10,7 @@ slug: ''
 sub_heading: VP, Research
 tags:
 - Research Cofounder
-thumbnail: "/uploads/2020/10/06/circle-cropped-5.png"
+thumbnail: "/uploads/2020/10/06/screen-shot-2020-10-07-at-2-31-09-am.png"
 layout: person
 
 ---
