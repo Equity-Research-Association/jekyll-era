@@ -25,4 +25,4 @@ Pursuing a Career in Equity Research’ is ERA’s maiden event. Featuring a pan
 
 ## For more information, reach out to
 
-* [Matthew Lao]((/about/matthew/))
+* [Matthew Lao](about/matthew/)
