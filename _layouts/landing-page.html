@@ -4,7 +4,7 @@ layout: default
 
 {% comment %}
 	This layout is used to generate custom landing page layouts,
-	e.g index.md and about.md
+	e.g index.md and about.md {% include partners.html %}
 {% endcomment %}
 
 {% assign stripped_content = content | strip_newlines %}
@@ -23,7 +23,5 @@ layout: default
 {% include services.html %}
 
 {% include news.html %}
-
-{% include partners.html %}
 
 {% include staff.html %}
