@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _events
-  label: Events
-  create: all
-  match: "**/*"
-  templates:
-  - project
 - type: heading
   label: Content
 - type: jekyll-posts
@@ -60,6 +53,13 @@ sections:
   templates:
   - person
 - type: directory
+  path: _event
+  label: Events Team
+  create: all
+  match: "**/*"
+  templates:
+  - person
+- type: directory
   path: _projects
   label: Projects
   create: all
@@ -67,12 +67,12 @@ sections:
   templates:
   - project
 - type: directory
-  path: _event
-  label: Events Team
+  path: _events
+  label: Events
   create: all
   match: "**/*"
   templates:
-  - person
+  - project
 - type: document
   path: _data/information.yml
   label: Contact Information
