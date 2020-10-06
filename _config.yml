@@ -29,6 +29,9 @@ collections:
   sponsorship:
     output: true
     permalink: "/about/:path/"
+  event:
+    output: true
+    permalink: "/about/:path/"
   posts:
     output: true
   projects:
