@@ -1,5 +1,5 @@
 ---
-title: Corey Guangzhen Jin
+title: Jeremy Ho
 date: 2016-11-08 00:00:00 +0000
 description: ''
 email: guangzhenj@student.unimelb.edu.au
@@ -7,7 +7,7 @@ linkedin: ''
 role:
 - President
 slug: ''
-sub_heading: Co-Founder & Director of Sponsorships
+sub_heading: Secretary
 tags:
 - Research Cofounder
 thumbnail: "/uploads/2017/11/14/Corey.jpeg"
