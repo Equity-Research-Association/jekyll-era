@@ -17,6 +17,7 @@ partners: []
 show_staff: false
 menu:
   navigation:
+    identifier: _membership
     weight: 6
 
 ---
