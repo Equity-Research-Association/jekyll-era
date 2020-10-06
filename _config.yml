@@ -37,6 +37,9 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+  events:
+    output: true
+    permalink: "/events/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
