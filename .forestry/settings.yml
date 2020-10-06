@@ -28,7 +28,7 @@ sections:
   path: _executive
   label: Executive Team
   create: all
-  match: "*"
+  match: "**/*"
   templates:
   - person
 - type: directory
