@@ -1,6 +1,6 @@
 ---
 heading: Become a part of the ERA Family
-sub_heading:
+sub_heading: 
 layout: landing-page
 title: Membership
 banner_image: "/uploads/2020/10/06/ga000396.jpg"
@@ -12,7 +12,7 @@ show_staff: false
 menu:
   navigation:
     identifier: _membership
-    weight: 6
+    weight: 5
 
 ---
 If you aren’t a member of the Equity Research Association already, you are certainly missing out on great Equity Research reports and informational posts.

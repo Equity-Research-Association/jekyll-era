@@ -6,9 +6,8 @@ heading: Contact ERA
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _contact
-    weight: 5
+  footer:
+    weight: 4
 
 ---
 ## Hours of Operation
