@@ -7,11 +7,11 @@ banner_image: "/uploads/2020/10/06/pexels-matheus-bertelli-3856026.jpg"
 heading: One stop spot for all events at ERA
 menu:
   footer:
-    identifier: _projects
-    url: "/projects/"
+    identifier: _events
+    url: "/events/"
     weight: 1
   navigation:
-    identifier: _projects
+    identifier: _events
     weight: 3
 
 ---
