@@ -1,7 +1,7 @@
 ---
 heading: Become a member today
 sub_heading: Become a member today
-layout: home
+layout: landing-page
 title: Membership
 banner_image: "/uploads/2020/10/06/ga000396.jpg"
 hero_button:
