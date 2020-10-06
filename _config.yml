@@ -20,6 +20,9 @@ collections:
   executive:
     output: true
     permalink: "/about/:path/"
+  marketing:
+    output: true
+    permalink: "/about/:path/"
   posts:
     output: true
   projects:
