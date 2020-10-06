@@ -29,7 +29,7 @@
                                     {{ person.sub_heading }}
                                 </div>{% endif %}
                                 <p>
-                                    {{ person.content | truncatewords: 25, "...<br><br>Continue reading →" }}
+                                    {{ person.content | truncatewords: 10, "...<br><br>Continue reading →" }}
                                 </p>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
             </div>
 
             <div class="content">
-                <h2 class="section-heading">Leadership</h2>
+                <h2 class="section-heading">Executive Team</h2>
                 <div class="pure-g">
                 {% assign executive = site.executive %}
                 {% for person in executive %}
