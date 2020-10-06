@@ -1,19 +1,19 @@
 ---
 title: Robert Xu
-date: 2016-11-08 00:00:00 +0000
+date: '2016-11-08T00:00:00.000+00:00'
 description: ''
-email: guangzhenj@student.unimelb.edu.au
-linkedin: ''
+email: opacitaticxu@gmail.com
+linkedin: https://www.linkedin.com/in/rbxu/
 role:
 - President
 slug: ''
 sub_heading: VP, Operations
 tags:
 - Research Cofounder
-thumbnail: "/uploads/2017/11/14/Corey.jpeg"
-layout: 'person'
----
+thumbnail: "/uploads/2020/10/06/circle-cropped-1.png"
+layout: person
 
+---
 Actuarial science student and co-founder of Equity Research Association at University of Melbourne;
 
 passionate about exploring mathematical theories and problems, and equipped with skills in R, mathematics, Microsoft Excel as well as basic data analysis;
