@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/10/06/pexels-energepiccom-159888-1.jpg"
+banner_image: "/uploads/2020/10/06/pexels-lorenzo-241544.jpg"
 layout: landing-page
 heading: Are you an Equity Research Enthusiast?
 partners: []
