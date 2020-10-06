@@ -39,12 +39,33 @@ sections:
   templates:
   - person
 - type: directory
+  path: _research
+  label: Research
+  create: all
+  match: "**/*"
+  templates:
+  - person
+- type: directory
+  path: _sponsorship
+  label: Sponsorship
+  create: all
+  match: "**/*"
+  templates:
+  - person
+- type: directory
   path: _projects
   label: Projects
   create: all
   match: "*"
   templates:
   - project
+- type: directory
+  path: _event
+  label: Events Team
+  create: all
+  match: "**/*"
+  templates:
+  - person
 - type: document
   path: _data/information.yml
   label: Contact Information
