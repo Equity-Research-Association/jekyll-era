@@ -20,7 +20,7 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-textline: "### **Spotlight for Equity Research Enthusiasts**"
+textline: Spotlight for Equity Research Enthusiasts
 show_staff: false
 menu:
   navigation:
