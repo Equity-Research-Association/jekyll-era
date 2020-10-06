@@ -10,7 +10,7 @@ slug: ''
 sub_heading: Director
 tags:
 - Research Cofounder
-thumbnail: "/uploads/2020/10/06/screen-shot-2020-10-07-at-2-29-45-am.png"
+thumbnail: "/uploads/2020/10/06/dscf6580.jpg"
 layout: person
 
 ---
