@@ -23,6 +23,12 @@ collections:
   marketing:
     output: true
     permalink: "/about/:path/"
+  research:
+    output: true
+    permalink: "/about/:path/"
+  sponsorship:
+    output: true
+    permalink: "/about/:path/"
   posts:
     output: true
   projects:
