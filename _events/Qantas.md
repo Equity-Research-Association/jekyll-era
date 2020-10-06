@@ -1,6 +1,6 @@
 ---
 title: Pursuing a Career in Equity Research
-date: '2016-04-20T00:00:00.000+00:00'
+date: '2020-09-29T00:00:00.000+00:00'
 categories:
 - airways
 - research
