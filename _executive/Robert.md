@@ -10,7 +10,7 @@ slug: ''
 sub_heading: Marketing Officer
 tags:
 - Research Cofounder
-thumbnail: "/uploads/2020/10/06/circle-cropped-1.png"
+thumbnail: "/uploads/2020/10/06/circle-cropped-1-2.png"
 layout: person
 
 ---
