@@ -166,6 +166,38 @@
                 </div>
             </div>
 
+            <div class="content">
+                <h2 class="section-heading">Events Team</h2>
+                <div class="pure-g">
+                {% assign sponsorship = site.event %}
+                {% for person in event %}
+                    <div class="pure-u-1 pure-u-md-1-4">
+                        <div class="post">
+                            <div class="post-header">
+                            {% if person.thumbnail %}
+                                <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}">
+                            {% else %}
+                                <img alt="{{ person.title }}" src="{{ "/img/placeholder.png" | absolute_url }}>
+                            {% endif %}
+                            </div>
+                            <div class="post-body">
+                                <h3>
+                                    <a href="{{ person.url | absolute_url }}">{{ person.title }}</a>
+                                </h3>
+                                {% if person.sub_heading %}
+                                <div class="subtitle">
+                                    {{ person.sub_heading }}
+                                </div>{% endif %}
+                                <p>
+                                    {{ person.content | truncatewords: 10, "...<br><br>Continue reading →" }}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+                </div>
+            </div>
+
 
         </div>
     </div>
