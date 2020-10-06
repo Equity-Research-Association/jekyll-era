@@ -1,9 +1,9 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/10/06/ga000396.jpg"
+banner_image: "/uploads/2020/10/06/ga001981.jpg"
 heading: About Equity Research Association
-sub_heading: Learn about what the organization does
+sub_heading: Learn about what the we do
 layout: landing-page
 textline: A multidisciplinary centre of experts
 publish_date: '2017-12-01T04:00:00.000+00:00'
