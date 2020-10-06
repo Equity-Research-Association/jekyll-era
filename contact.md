@@ -8,9 +8,6 @@ show_staff: true
 menu:
   footer:
     weight: 4
-  navigation:
-    identifier: _contact
-    weight: 5
 
 ---
 ## Hours of Operation
