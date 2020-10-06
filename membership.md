@@ -4,9 +4,6 @@ sub_heading: Become a member today
 layout: landing-page
 title: Membership
 banner_image: "/uploads/2020/10/06/ga000396.jpg"
-hero_button:
-  text: ''
-  href: ''
 textline: Membership
 services:
 - heading: Title 1
