@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/rachel-ong-99a1b017a/
 role:
 - President
 slug: ''
-sub_heading: VP, Research
+sub_heading: Director
 tags:
 - Research Cofounder
 thumbnail: "/uploads/2020/10/06/circle-cropped-5.png"
