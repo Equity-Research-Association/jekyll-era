@@ -1,16 +1,16 @@
 ---
-title: Rachel Ong
+title: Matthew Lao
 date: '2016-11-08T00:00:00.000+00:00'
 description: ''
-email: ongrs@student.unimelb.edu.au
+email: matthewlao9@gmail.com
 linkedin: https://www.linkedin.com/in/rachel-ong-99a1b017a/
 role:
 - President
 slug: ''
-sub_heading: VP, Research
+sub_heading: Director, Events
 tags:
 - Research Cofounder
-thumbnail: "/uploads/2020/10/06/circle-cropped-5.png"
+thumbnail: "/uploads/2020/10/06/screen-shot-2020-10-07-at-2-31-09-am.png"
 layout: person
 
 ---
