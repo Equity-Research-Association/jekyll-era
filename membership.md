@@ -1,5 +1,4 @@
 ---
-title: Membership
 heading: Become a member today
 sub_heading: Become a member today
 layout: home
@@ -16,5 +15,8 @@ services:
 show_news: true
 partners: []
 show_staff: true
+menu:
+  navigation:
+    weight: 6
 
 ---
