@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Corporate Travel’s "Company Changing M&A
-sub_heading: Corporate Travel’s recent acquisition
+sub_heading: "#market-recap"
 date: 2020-10-02T00:00:00.000+10:00
 tags: []
 banner_image: "/uploads/2020/10/07/asx-main-board.jpg"
