@@ -10,9 +10,6 @@ menu:
   footer:
     identifier: _events
     url: "/events/"
-    weight: 1
-  navigation:
-    identifier: _events
-    weight: 3
+    weight: 4
 
 ---
