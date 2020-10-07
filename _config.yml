@@ -40,6 +40,9 @@ collections:
   events:
     output: true
     permalink: "/events/:path/"
+  careers:
+    output: true
+    permalink: "/careers/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
