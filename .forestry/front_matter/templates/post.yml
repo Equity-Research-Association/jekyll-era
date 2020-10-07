@@ -38,6 +38,19 @@ fields:
   type: text
   hidden: true
   default: post
+- name: author
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: people
+      file: 
+      path: 
+  label: Author
+  description: Author of the post
 pages:
 - _posts/2020-09-04-apple-tesla-stock-spilt.md
 - _posts/2020-10-01-more-good-news-from-alibaba.md
