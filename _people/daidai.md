@@ -20,5 +20,4 @@ She is passionate about exploring economic theory and data analysis with statist
 
 She is due to graduate at the end of 2020 and seeking for opportunity in the field of data analysis and financial services
 
-Personal website: [https://dai.netlify.app](https://dai.netlify.app "https://dai.netlify.app")  
-Linkedin: [https://www.linkedin.com/in/danyang-dai-7529b4152/](https://dai.netlify.app "https://dai.netlify.app")
+Personal website: [https://dai.netlify.app](https://dai.netlify.app "https://dai.netlify.app")
