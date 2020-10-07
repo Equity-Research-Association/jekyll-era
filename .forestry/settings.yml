@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _careers
-  label: Careers
-  create: all
-  match: "**/*"
-  templates:
-  - project
 - type: heading
   label: Content
 - type: jekyll-posts
@@ -83,6 +76,13 @@ sections:
 - type: document
   path: _data/information.yml
   label: Contact Information
+- type: directory
+  path: _careers
+  label: Careers
+  create: all
+  match: "**/*"
+  templates:
+  - project
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
