@@ -1,5 +1,5 @@
 ---
-title: Marketing Officer
+title: Pursuing a Career in Equity Research
 date: '2020-09-29T00:00:00.000+00:00'
 categories:
 - airways
@@ -8,8 +8,8 @@ description: Learn the happenings at Qantas
 banner_image: "/uploads/2020/10/06/120371660_169057218102952_511477957760937806_o.jpg"
 sub_heading: Calling all students passionate about Equity Research
 tags:
-- engineering
-- research
+- event
+- Equity Research
 slug: Slug
 
 ---
