@@ -1,9 +1,9 @@
 ---
 title: Danyang Dai
-date: 2016-11-08 00:00:00 +0000
+date: '2016-11-08T00:00:00.000+00:00'
 description: ''
 email: danyan.dai01@gmail.com
-linkedin: ''
+linkedin: https://www.linkedin.com/in/danyang-dai-7529b4152/
 role:
 - Co-Founder
 slug: ''
@@ -11,11 +11,14 @@ sub_heading: Co-Founder
 tags:
 - Research Cofounder
 thumbnail: "/uploads/2017/11/14/daidai.jpeg"
-layout: 'person'
+layout: person
+
 ---
+Danyang Dai is a mater’s student study in applied econometrics. She enjoys quantitative analysis and statistical modelling. She co-foundered Equity Research Association aims to further develop her analysis skills and provide a hands-on platform for like-minded students.
 
-Actuarial science student and co-founder of Equity Research Association at University of Melbourne;
+She is passionate about exploring economic theory and data analysis with statistical software such as R, Python and Stata. She is an organisation committee member at R Ladies Melbourne and love help others with R coding journey.
 
-passionate about exploring mathematical theories and problems, and equipped with skills in R, mathematics, Microsoft Excel as well as basic data analysis;
+She is due to graduate at the end of 2020 and seeking for opportunity in the field of data analysis and financial services
 
-currently seeking for opportunities in the field of actuarial science, data analysis and financial services while aiming at developing a strong personal network
+Personal website: [https://dai.netlify.app](https://dai.netlify.app "https://dai.netlify.app")  
+Linkedin: [https://www.linkedin.com/in/danyang-dai-7529b4152/](https://dai.netlify.app "https://dai.netlify.app")
