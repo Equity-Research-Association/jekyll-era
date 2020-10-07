@@ -5,7 +5,7 @@ sub_heading: Corporate Travel’s recent acquisition
 date: 2020-10-02 00:00:00 +1000
 tags: []
 banner_image: "/uploads/2020/10/07/asx-main-board.jpg"
-related_posts: []
+related_posts: [2020-10-01-more-good-news-from-alibaba]
 
 ---
 # Overview
@@ -20,4 +20,4 @@ This is an interesting M&A deal to keep an eye on as the pandemic have obviously
 
 ### Author
 
-[Simon Lim]()
+- [Simon Lim](/about/simon/)
