@@ -14,7 +14,7 @@ thumbnail: "/uploads/2017/11/14/daidai.jpeg"
 layout: person
 
 ---
-Danyang Dai is a mater’s student study in applied econometrics. She enjoys quantitative analysis and statistical modelling. She co-foundered Equity Research Association aims to further develop her analysis skills and provide a hands-on platform for like-minded students.
+Danyang Dai is a masters' student study in applied econometrics. She enjoys quantitative analysis and statistical modelling. She co-foundered Equity Research Association aims to further develop her analysis skills and provide a hands-on platform for like-minded students.
 
 She is passionate about exploring economic theory and data analysis with statistical software such as R, Python and Stata. She is an organisation committee member at R Ladies Melbourne and love help others with R coding journey.
 
