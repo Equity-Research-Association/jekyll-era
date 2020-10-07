@@ -2,7 +2,7 @@
 title: Marketing Officer
 date: '2020-09-29T00:00:00.000+00:00'
 categories:
-- airways
+- marketing
 - research
 description: Learn the happenings at Qantas
 banner_image: "/uploads/2020/10/07/pexels-negative-space-34639.jpg"
