@@ -8,7 +8,7 @@ role:
 - Director
 - advisor
 slug: ''
-sub_heading: Founder & Director of Research
+sub_heading: Co-Founder & Director of Research
 tags:
 - Research Cofounder Marketing
 thumbnail: "/uploads/2017/11/14/Jonathan.jpeg"
