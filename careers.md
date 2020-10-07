@@ -8,8 +8,8 @@ heading: Do what you love
 sub_heading: Explore different opportunities at ERA
 menu:
   footer:
-    identifier: _events
-    url: "/events/"
+    identifier: _careers
+    url: "/careers/"
     weight: 4
 
 ---
