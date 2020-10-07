@@ -1,6 +1,6 @@
 ---
 title: Jonathan Low
-date: 2016-11-08 00:00:00 +0000
+date: '2016-11-08T00:00:00.000+00:00'
 description: ''
 email: jonlow990117@gmail.com
 linkedin: ''
@@ -12,11 +12,14 @@ sub_heading: Founder & Director of Research
 tags:
 - Research Cofounder Marketing
 thumbnail: "/uploads/2017/11/14/Jonathan.jpeg"
-layout: 'person'
+layout: person
+
 ---
+I co-founded Equity Research Association (ERA) with the aim of providing students a hands-on experience on analysing equities as well as developing and honing the skillsets required in a supportive environment.
 
-I co-founded Equity Research Association (ERA) with the aim of showcasing the objective research done by our analysts, developing and honing our skillsets in a supportive environment as well as a platform for students of similar passion.
+Previously, I held an Investment Analyst position in ZeroCap, a digital asset firm for private clients. I performed analysis on investing opportunities in the tech and media industry for private clients, high net worth individuals and institutions globally. I also sourced, researched and valued new start-ups for investment opportunities.
 
-Previously, I held an analyst position in ZeroCap, a digital asset firm for private clients. I performed equity research analysis on investing opportunities for private clients, high net worth individuals and institutions globally. I also assisted in the R&D of multiple start-up ventures.
-
-Apart from academics, I'm passionate about value and growth investing, cooking and fitness. Currently, I have been looking into Chart and Pattern analysis, Derivatives and Blockchain in Python.
+Seeking opportunities in investments and fintech. If you have a project I can help me, please get in touch.  
+  
+[jonlow990117@gmail.com](mailto:jonlow990117@gmail.com)  
+[https://www.linkedin.com/in/jonlowjy/](https://www.linkedin.com/in/jonlowjy/ "https://www.linkedin.com/in/jonlowjy/")
