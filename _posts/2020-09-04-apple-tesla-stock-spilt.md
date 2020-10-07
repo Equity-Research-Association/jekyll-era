@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Tesla Stock Spilt
-sub_heading: Recent decisions by Apple and Tesla
+sub_heading: "#market-recap"
 date: 2020-09-04 00:00:00 +1000
 tags:
 - apple
