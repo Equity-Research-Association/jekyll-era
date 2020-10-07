@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/rbxu/
 role:
 - President
 slug: ''
-sub_heading: Marketing Officer
+sub_heading: VP of Operations
 tags:
 - Research Cofounder
 thumbnail: "/uploads/2020/10/06/circle-cropped-1-2.png"
