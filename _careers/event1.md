@@ -38,4 +38,4 @@ We need creative talents like you to make our presence felt across the universit
 
 ## Are you interested?
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrLVlmj3FcTkGfrP?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrLVlmj3FcTkGfrP?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="1263" style="background: transparent; border: 1px solid #ccc;"></iframe>
