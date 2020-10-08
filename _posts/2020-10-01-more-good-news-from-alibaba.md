@@ -8,7 +8,7 @@ tags:
 - market-recap
 banner_image: "/uploads/2020/10/07/14alibaba-1-videosixteenbyninejumbo1600.jpg"
 related_posts: []
-author: _people/jonathan.md
+author: ''
 
 ---
 ## Overview
