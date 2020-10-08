@@ -13,15 +13,11 @@ tags:
 slug: Slug
 
 ---
-## Description
-
 As a research analyst, you will work in sector teams to conduct comprehensive research of the fundamentals of listed companies, covering areas such as business model, the management, competitive advantages, industry trends, financial performance, modelling and valuations. You will gain practical experience in the whole process of research, from selecting companies to researching them; collecting information from multiple sources, analysing the information, and deducing the economic prospects of your team’s chosen company. Our reports are reviewed by industry professionals and academic staff, giving you the opportunity to learn, improve and prepare yourself for a work environment.
-
 
 You will play a key role to showcase high-quality equity research reports to our members!
 
-
-**Key Responsibilities:**
+## Everyday activities of a Research Analyst include
 
 * Collect and analyse company and industry information from various sources such as annual reports, company announcements, industry database, market news, etc.
 * Make sound economic inferences about the future developments of companies and industries you will cover
