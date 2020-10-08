@@ -15,6 +15,8 @@ slug: Slug
 ---
 ## Description
 
+As a member of our operations team, you will be the driving force behind the rapid growth of our organisation. Each of our divisions give you the opportunity to grow in collaboration, communication and even network with industry professionals. You will not only be able to specialise within your chosen division, but you will also have exclusive opportunities to cultivate your interests in finance.
+
 We need creative talents like you to make our presence felt across the university’s student body!
 
 * Writing posts for various social media channels, promote events
