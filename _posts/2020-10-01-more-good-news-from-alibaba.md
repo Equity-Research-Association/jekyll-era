@@ -2,15 +2,15 @@
 layout: post
 title: More Good News from Alibaba
 sub_heading: "#market-recap"
-date: 2020-10-01 14:00:00 +0000
+date: 2020-10-01T14:00:00.000+00:00
 tags:
 - alibaba
 - market-recap
 banner_image: "/uploads/2020/10/07/14alibaba-1-videosixteenbyninejumbo1600.jpg"
 related_posts: []
+author: _people/jonathan.md
 
 ---
-
 ## Overview
 
 Alibaba (NYSE: BABA) gets a 6% boost after positive outlook for its cloud business was revealed during an investor day livestream. During the event, CFO Maggie Wu assured Alibaba investors that the company’s cloud unit will post a profit during its fiscal 2021 year. This was welcoming news to investors as the company’s cloud business has yet to make a profit.
