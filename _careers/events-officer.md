@@ -10,6 +10,8 @@ As a member of our operations team, you will be the driving force behind the rap
 
 We need passionate contributors to organise various events related to equity research and add value for our members!
 
+## Everyday activities of the Events Officer include
+
 * Assist in planning and running of events, propose interesting future events
 * Liaise with a range of stakeholders during the organisation of events
 * Effectively collect and analyse feedback to optimise the delivery of future events.
