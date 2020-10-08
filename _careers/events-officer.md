@@ -1,8 +1,8 @@
 ---
 tags: []
 title: Events Officer
-sub_heading: ''
-banner_image: "/uploads/2020/10/08/pexels-luis-quintero-2774556.jpg"
+sub_heading: Is events your gig?
+banner_image: "/uploads/2020/10/08/pexels-johnmark-smith-301987.jpg"
 slug: ''
 
 ---
