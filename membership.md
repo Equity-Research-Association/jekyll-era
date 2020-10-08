@@ -10,8 +10,8 @@ show_news: false
 partners: []
 show_staff: false
 hero_button:
-  text: ''
-  href: ''
+  text: About us
+  href: "/about"
 menu:
   navigation:
     identifier: _membership
