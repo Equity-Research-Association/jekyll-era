@@ -2,7 +2,7 @@
 tags: []
 title: Sponsorship Officer
 sub_heading: Do you love networking and working with people?
-banner_image: "/uploads/2020/10/08/pexels-august-de-richelieu-4427959.jpg"
+banner_image: "/uploads/2020/10/08/pexels-matheus-bertelli-3856029.jpg"
 slug: ''
 
 ---
