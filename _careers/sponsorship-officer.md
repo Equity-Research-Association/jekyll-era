@@ -6,11 +6,11 @@ banner_image: "/uploads/2020/10/08/pexels-august-de-richelieu-4427959.jpg"
 slug: ''
 
 ---
-## Description
-
 As a member of our operations team, you will be the driving force behind the rapid growth of our organisation. Each of our divisions give you the opportunity to grow in collaboration, communication and even network with industry professionals. You will not only be able to specialise within your chosen division, but you will also have exclusive opportunities to cultivate your interests in finance.
 
 We need aspiring individuals to build vital connections with sponsors to support keynote events and upskill the capabilities of our research team!
+
+## Everyday activities of a Sponsorship Officer include
 
 * Identify potential sponsor firms and industry representatives
 * Proactively contact potential sponsors and maintain relationship with existing sponsors
