@@ -1,8 +1,8 @@
 ---
 tags: []
 title: Sponsorship Officer
-sub_heading: Is events your gig?
-banner_image: "/uploads/2020/10/08/pexels-johnmark-smith-301987.jpg"
+sub_heading: Do you love networking and working with people your thing?
+banner_image: "/uploads/2020/10/08/pexels-august-de-richelieu-4427959.jpg"
 slug: ''
 published: false
 
@@ -11,19 +11,18 @@ published: false
 
 As a member of our operations team, you will be the driving force behind the rapid growth of our organisation. Each of our divisions give you the opportunity to grow in collaboration, communication and even network with industry professionals. You will not only be able to specialise within your chosen division, but you will also have exclusive opportunities to cultivate your interests in finance.
 
-  
-We need passionate contributors to organise various events related to equity research and add value for our members!
+We need aspiring individuals to build vital connections with sponsors to support keynote events and upskill the capabilities of our research team!
 
-* Assist in planning and running of events, propose interesting future events
-* Liaise with a range of stakeholders during the organisation of events
-* Effectively collect and analyse feedback to optimise the delivery of future events.
+* Identify potential sponsor firms and industry representatives
+* Proactively contact potential sponsors and maintain relationship with existing sponsors
+* Organise meetings with sponsors to discuss objectives and/or details of events
 
 ## Skills
 
 * Can communicate effectively and has good interpersonal skills
 * Strong teamwork skills to be able to collaborate closely with the rest of the operations teams
-* Attention to detail, organisation and time management skills
-* Thirst for creativity and sense of innovation
+* Brings a positive mindset and a sense of enthusiasm
+* Has an outgoing personality and is comfortable ‘cold calling’ and leveraging existing networks to help find new sponsors for ERA
 * Expected minimum time commitment: 5h per week
 
 ## Are you interested?
