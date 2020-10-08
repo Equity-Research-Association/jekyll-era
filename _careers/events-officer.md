@@ -10,7 +10,7 @@ slug: ''
 
 As a member of our operations team, you will be the driving force behind the rapid growth of our organisation. Each of our divisions give you the opportunity to grow in collaboration, communication and even network with industry professionals. You will not only be able to specialise within your chosen division, but you will also have exclusive opportunities to cultivate your interests in finance.
 
-  
+
 We need passionate contributors to organise various events related to equity research and add value for our members!
 
 * Assist in planning and running of events, propose interesting future events
@@ -27,4 +27,4 @@ We need passionate contributors to organise various events related to equity res
 
 ## Are you interested?
 
-<script src="[https://static.airtable.com/js/embed/embed_snippet_v1.js](https://static.airtable.com/js/embed/embed_snippet_v1.js "https://static.airtable.com/js/embed/embed_snippet_v1.js")"></script><iframe class="airtable-embed airtable-dynamic-height" src="[https://airtable.com/embed/shrLVlmj3FcTkGfrP?backgroundColor=cyan](https://airtable.com/embed/shrLVlmj3FcTkGfrP?backgroundColor=cyan "https://airtable.com/embed/shrLVlmj3FcTkGfrP?backgroundColor=cyan")" frameborder="0" onmousewheel="" width="100%" height="1263" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrLVlmj3FcTkGfrP?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="1263" style="background: transparent; border: 1px solid #ccc;"></iframe>
