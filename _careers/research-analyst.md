@@ -5,8 +5,8 @@ categories:
 - marketing
 - research
 description: Learn the happenings at Qantas
-banner_image: "/uploads/2020/10/07/pexels-negative-space-34639.jpg"
-sub_heading: Does Marketing tickle your brain?
+banner_image: "/uploads/2020/10/08/pexels-george-morina-4911411.jpg"
+sub_heading: Is numbers your game?
 tags:
 - marketing
 - careers at ERA
@@ -16,7 +16,18 @@ published: false
 ---
 ## Description
 
-As a member of our operations team, you will be the driving force behind the rapid growth of our organisation. Each of our divisions give you the opportunity to grow in collaboration, communication and even network with industry professionals. You will not only be able to specialise within your chosen division, but you will also have exclusive opportunities to cultivate your interests in finance.
+As a research analyst, you will work in sector teams to conduct comprehensive research of the fundamentals of listed companies, covering areas such as business model, the management, competitive advantages, industry trends, financial performance, modelling and valuations. You will gain practical experience in the whole process of research, from selecting companies to researching them; collecting information from multiple sources, analysing the information, and deducing the economic prospects of your team’s chosen company. Our reports are reviewed by industry professionals and academic staff, giving you the opportunity to learn, improve and prepare yourself for a work environment.
+
+  
+You will play a key role to showcase high-quality equity research reports to our members!
+
+  
+**Key Responsibilities:**
+
+* Collect and analyse company and industry information from various sources such as annual reports, company announcements, industry database, market news, etc.
+* Make sound economic inferences about the future developments of companies and industries you will cover
+* Participate in writing equity research reports and prepare presentations to showcase your research
+* Work collaboratively with your team members and attend regular research meetings
 
 We need creative talents like you to make our presence felt across the university’s student body!
 
@@ -26,18 +37,14 @@ We need creative talents like you to make our presence felt across the universit
 
 ## Skills
 
-* Ability to quickly learn and develop new skills
-* Ability to work autonomously and integrate with the team on the activities
-* Attention to detail, organisation and time management skills
-* Experience in using tools for layout and design of promotional materials is preferred
-* Experience in digital marketing tools such as Mailchimp is preferred, but not essential
-* Expected minimum time commitment: 5h per week
-
-## Ask the marketing-team at ERA on what it feels like to be on the role creating amazing things every day
-
-* [Taru Singhi](/about/Taru/)
-* [Robert](/about/Robert/)
-* [Nirmala Rao Dhanawada](/about/Nirmal/)
+* Passion for equity research and/or investment
+* Strong motivation to explore new things in-depth and take on challenges
+* Excellent research, teamwork and leadership skills
+* High level of attention to details
+* Ability to think independently and critically
+* Outstanding organisational skills and being able to deliver work on time
+* Solid foundation of economic and financial knowledge
+* Expected minimum time commitment: 6h per week
 
 ## Are you interested?
 
