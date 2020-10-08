@@ -11,8 +11,6 @@ related_posts: []
 author: ''
 
 ---
-## Overview
-
 Alibaba (NYSE: BABA) gets a 6% boost after positive outlook for its cloud business was revealed during an investor day livestream. During the event, CFO Maggie Wu assured Alibaba investors that the company’s cloud unit will post a profit during its fiscal 2021 year. This was welcoming news to investors as the company’s cloud business has yet to make a profit.
 
 ![](/uploads/2020/10/07/screen_shot_2020-10-01_at_11-46-38_am.png)
@@ -21,4 +19,4 @@ Alibaba has been focusing of its cloud business as of late, wanting it to become
 
 ## Author
 
-- [Jonathan Low](/about/jonathan/)
+* [Jonathan Low](/about/jonathan/)
