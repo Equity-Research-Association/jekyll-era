@@ -6,10 +6,10 @@ categories:
 - research
 description: Learn the happenings at Qantas
 banner_image: "/uploads/2020/10/08/pexels-george-morina-4911411.jpg"
-sub_heading: Is numbers your game?
+sub_heading: Be at the forefront of our research
 tags:
-- marketing
 - careers at ERA
+- research
 slug: Slug
 
 ---
