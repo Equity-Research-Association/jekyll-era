@@ -1,7 +1,7 @@
 title: Equity Research Association
 short_title: ERA
 description: Website of Equity Research Association
-url: https://eraunimelb.netlify.app/
+baseurl: https://eraunimelb.netlify.app/
 permalink: "/:path/"
 defaults:
   - scope:
