@@ -24,12 +24,6 @@ You will play a key role to showcase high-quality equity research reports to our
 * Participate in writing equity research reports and prepare presentations to showcase your research
 * Work collaboratively with your team members and attend regular research meetings
 
-We need creative talents like you to make our presence felt across the university’s student body!
-
-* Writing posts for various social media channels, promote events
-* Communicate with members via email (newsletter, event notices, etc.); respond to member enquiries
-* Design attractive visuals, flyers, posts and other promotional material
-
 ## Skills
 
 * Passion for equity research and/or investment
