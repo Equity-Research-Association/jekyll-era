@@ -51,4 +51,5 @@ jekyll-archives:
 plugins:
   - jekyll-menus
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-archives
