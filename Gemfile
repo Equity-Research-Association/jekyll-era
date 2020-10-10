@@ -6,7 +6,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-menus"
   gem "jekyll-tagging"
-  gem 'jekyll-paginate', '~> 1.1'
+  gem "jekyll-paginate"
   gem "jekyll-archives"
 end
 
