@@ -3,8 +3,6 @@ short_title: ERA
 description: Website of Equity Research Association
 baseurl:
 permalink: "/:path/"
-paginate: 10
-paginate_path: "/_posts/page:num/"
 defaults:
   - scope:
       path: ""
@@ -47,6 +45,8 @@ collections:
     permalink: "/careers/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
+paginate: 10
+paginate_path: "/_posts/page:num/"
 jekyll-archives:
   enabled: all
   layout: "archive"
