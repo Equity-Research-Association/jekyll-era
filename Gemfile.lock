@@ -75,7 +75,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-menus
   jekyll-tagging
-  jekyll-paginate
   tzinfo-data
 
 BUNDLED WITH
