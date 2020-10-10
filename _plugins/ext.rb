@@ -4,3 +4,4 @@
 # Activate jekyll-tagging
 # https://github.com/pattex/jekyll-tagging
 require 'jekyll/tagging'
+require 'jekyll/paginate'
