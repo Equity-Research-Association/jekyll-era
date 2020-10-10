@@ -4,7 +4,7 @@ description: Website of Equity Research Association
 baseurl:
 permalink: "/:path/"
 paginate: 10
-paginate_path: "/post/:num/"
+paginate_path: "/path/:num/"
 defaults:
   - scope:
       path: ""
