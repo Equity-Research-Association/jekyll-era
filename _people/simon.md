@@ -1,9 +1,9 @@
 ---
 title: Simon Lim
-date: 2016-11-08 00:00:00 +0000
+date: '2016-11-08T00:00:00.000+00:00'
 description: ''
 email: simonlyx88@gmail.com
-linkedin: ''
+linkedin: https://www.linkedin.com/in/simonlyx/
 role:
 - President
 slug: ''
@@ -11,13 +11,9 @@ sub_heading: Co-Founder & President
 tags:
 - Research Cofounder President
 thumbnail: "/uploads/2017/11/14/Simon.jpeg"
-layout: 'person'
+layout: person
+
 ---
+Simon has over 2 years of experience in equity researching. He is passionate about the financial markets and stock-picking strategies. He is an avid researcher on ESG Investing and passionate about making a positive impact to the community via Sustainable Investments. Simon also does his due diligence and market research, converting financial data into models to value firms' growth potential.
 
-I am an equity researcher with over 2 years of experience. Passionate about financial markets and stock-picking strategies. I do my due diligence and market research, convert processable data into models to value firms' growth potential.
-
-Love entrepreneurship and building sustainable startups. I am researching on the technology-cum-renewable energy sector.
-
-Participant of international student exchange program (AFS), member of the World Scout Organisation and an avid King Scout. Constantly pushing boundaries, stepping out of my comfort zone into the real world and embrace changes.
-
-Seeking opportunities to gain new knowledge regarding investment, finance and entrepreneurship. If you have a project I can help with, please get in touch. 
+Simon is currently working as an Investment Research Intern at UOB Kay Hian in Kuala Lumpur. He is responsible for conducting market and economic analysis for investment purposes. His job scope also includes analyzing funds from different asset classes and constructing portfolio based on the clients' needs.
