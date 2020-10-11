@@ -32,11 +32,6 @@ We need creative talents like you to make our presence felt across the universit
 * Experience in digital marketing tools such as Mailchimp is preferred, but not essential
 * Expected minimum time commitment: 5h per week
 
-## Ask the marketing-team at ERA on what it feels like to be on the role creating amazing things every day
-
-* [Robert](/about/Robert/)
-* [Nirmala Rao Dhanawada](/about/Nirmal/)
-
 ## Are you interested?
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrywJ7BPvVkcefrg?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="2415" style="background: transparent; border: 1px solid #ccc;"></iframe>
