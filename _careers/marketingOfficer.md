@@ -17,7 +17,7 @@ As a member of our operations team, you will be the driving force behind the rap
 
 We need creative talents like you to make our presence felt across the university’s student body!
 
-## Everyday activities of a Research Analyst include
+## Everyday activities of a Marketing Officer include
 
 * Writing posts for various social media channels, promote events
 * Communicate with members via email (newsletter, event notices, etc.); respond to member enquiries
