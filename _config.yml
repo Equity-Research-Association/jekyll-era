@@ -45,13 +45,10 @@ collections:
     permalink: "/careers/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
-paginate: 10
-paginate_path: "/_posts/page:num/"
 jekyll-archives:
   enabled: all
   layout: "archive"
 plugins:
   - jekyll-menus
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-archives
