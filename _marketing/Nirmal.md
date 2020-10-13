@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/thedhanawada/
 role:
 - President
 slug: ''
-sub_heading: Director
+sub_heading: Director of Marketing
 tags:
 - Research Cofounder
 thumbnail: "/uploads/2020/10/06/profile_image.jpeg"
