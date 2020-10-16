@@ -14,8 +14,6 @@ thumbnail: "/uploads/2020/10/06/circle-cropped-4.png"
 layout: person
 
 ---
-Actuarial science student and co-founder of Equity Research Association at University of Melbourne;
+Jeremy is a Finance and Management student and the Secretary of Equity Research Association. He graduated as Valedictorian and Dux from Trinity Foundation College and is a double scholarship holder. 
 
-passionate about exploring mathematical theories and problems, and equipped with skills in R, mathematics, Microsoft Excel as well as basic data analysis;
-
-currently seeking for opportunities in the field of actuarial science, data analysis and financial services while aiming at developing a strong personal network
+He has a keen interest in Capital Markets and Private Equity. He brings with him a varied skillset in areas of Operations, Communications, and Company Analysis.
