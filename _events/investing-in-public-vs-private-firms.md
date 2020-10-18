@@ -1,6 +1,7 @@
 ---
 tags: []
 title: Investing in Public vs Private Firms
+date: '2020-10-22T00:00:00.000+00:00'
 sub_heading: Q&A Panel
 banner_image: "/uploads/2020/10/18/cover.jpg"
 slug: ''
@@ -12,5 +13,5 @@ Investing in Public vs Private Firms is the first collaborative event between th
 
 The event is aimed to be as interactive as possible, so we encourage all to come prepared and directly engage with our panelists!
 
-  
+
 Register your spot at [https://unimelb.zoom.us/meeting/register/tZwsceygqDwoG9G7TpLuUzCBF1bYCyI6z5kZ?fbclid=IwAR2Mpvvx-hcCDzRhh9Cm-Z94HFHAlHzNpfL5-vYC0fQ7QL3AY21qVhyDq-M](https://unimelb.zoom.us/meeting/register/tZwsceygqDwoG9G7TpLuUzCBF1bYCyI6z5kZ?fbclid=IwAR2Mpvvx-hcCDzRhh9Cm-Z94HFHAlHzNpfL5-vYC0fQ7QL3AY21qVhyDq-M "https://unimelb.zoom.us/meeting/register/tZwsceygqDwoG9G7TpLuUzCBF1bYCyI6z5kZ?fbclid=IwAR2Mpvvx-hcCDzRhh9Cm-Z94HFHAlHzNpfL5-vYC0fQ7QL3AY21qVhyDq-M")
