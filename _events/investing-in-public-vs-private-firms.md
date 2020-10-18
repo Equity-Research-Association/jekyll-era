@@ -4,7 +4,6 @@ title: Investing in Public vs Private Firms
 sub_heading: Q&A Panel
 banner_image: "/uploads/2020/10/18/cover.jpg"
 slug: ''
-published: false
 
 ---
 Equity Research Association (ERA) x Entrepreneurship and Growth Investment Society (EGIS) presents “𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗻𝗴 𝗶𝗻 𝗣𝘂𝗯𝗹𝗶𝗰 𝘃𝘀 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗙𝗶𝗿𝗺𝘀”!
