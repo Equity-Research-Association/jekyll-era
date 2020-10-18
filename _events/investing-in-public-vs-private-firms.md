@@ -5,6 +5,7 @@ date: '2020-09-29T00:00:00.000+00:00'
 sub_heading: Q&A Panel
 banner_image: "/uploads/2020/10/18/cover.jpg"
 slug: ''
+event_date: 2020-10-22 00:00:00 +1100
 
 ---
 Equity Research Association (ERA) x Entrepreneurship and Growth Investment Society (EGIS) presents “𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗻𝗴 𝗶𝗻 𝗣𝘂𝗯𝗹𝗶𝗰 𝘃𝘀 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗙𝗶𝗿𝗺𝘀”!
