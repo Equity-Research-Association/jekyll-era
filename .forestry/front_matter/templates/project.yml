@@ -5,6 +5,15 @@ fields:
 - type: text
   name: title
   label: Title
+- name: event_date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: sub_heading
   label: Sub Heading
   type: text
