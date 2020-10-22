@@ -35,5 +35,3 @@ fields:
   type: text
   hidden: true
   default: person
-pages:
-- _marketing/matthew-lao.md
