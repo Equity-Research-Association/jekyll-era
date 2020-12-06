@@ -29,7 +29,7 @@ Our estimate of Mastercard’s intrinsic value through the base case DCF is **$3
 ## Team
 
 * [Jonathan Low](/about/jonathan/)
-* [Zherui Li](/about/zheuri-li/)
+* Zherui Li
 * Rachel Ong
 * [Sean Ng](/about/sean/)
 * Ansh Gupta
