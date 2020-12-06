@@ -10,7 +10,7 @@ published: false
 ---
 ## Overview
 
-As one of the largest players in the global payments industry, Mastercard has historically delivered consistent revenue growth which has been driven by a well-established core network. Building upon strong fundamentals, Mastercard has a healthy balance sheet and an incredibly high profit margin. Growing globalisation, digitalisation and consumerism has continued to propel the entire global payments industry, which is predicted to only accelerate post- COVID. 
+As one of the largest players in the global payments industry, Mastercard has historically delivered consistent revenue growth which has been driven by a well-established core network. Building upon strong fundamentals, Mastercard has a healthy balance sheet and an incredibly high profit margin. Growing globalisation, digitalisation and consumerism has continued to propel the entire global payments industry, which is predicted to only accelerate post- COVID.
 
 Mastercard supplements this by maintaining industry leadership through constant investment in technology and acquisitions such as Nets and Finicity among others. With the predicted success of these strategies, Mastercard will continue to play a large role, however, it is unlikely to monopolise this industry, due to heavy regulation and Mastercard’s inability to materially differentiate itself from VISA.
 
@@ -25,12 +25,12 @@ Our estimate of Mastercard’s intrinsic value through the base case DCF is **$3
 
 ## Did you find it interesting?
 
-[Download the full report](https://app.forestry.io/sites/kahgdpeyfjrr1g/body-media//uploads/2017/11/14/Qantas.pdf)
+[Download the full report](/uploads/2020/12/06/era-mastercard-report.pdf)
 
 ## Team
 
 * [Jonathan Low](/about/jonathan/)
 * [Zherui Li](/about/zheuri-li/)
 * Rachel Ong
-* Sean Ng
+* [Sean Ng](/about/sean/)
 * Ansh Gupta
