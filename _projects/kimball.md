@@ -11,28 +11,27 @@ tags:
 - engineering
 - research
 slug: ''
-published: false
 
 ---
-## Overview
-We initiate a coverage for Qantas in an objective manner. The estimates in our research are derived from our research framework which takes into account the domestic and international aviation industry conditions, competitive advantages, and past financial
-performance.
+_Kimball International (NASDAQ:KBAL)_
 
-The in-depth analysis of our research has also factored in management capabilities, catalysts, and possibilities for Qantas. We have also considered the impact of COVID-19 on Qantas and forecasted its future performance accordingly
+## Overview
+
+Kimball has consistently performed well, bringing in stable positive net income even in FY2020. It hopes to accelerate its growth by becoming leaner with an absolute focus on custom-designed furniture supply. Workplace furniture contributes 60% of sales with the rest 40% being accounted for by the health and hospitality sector. Hence, its sales volatility is likely to be dictated by workplace trends and attitudes. Geographically, 98% of its sales and 90% of its operational facilities are in the US.
 
 ## Valuations
-We estimate the intrinsic value of Qantas to be $4.24/share through a DCF model. The current share price of $3.50 represents a 17.5% discount. Currently trading at trailing P/E 6.12 and EV/EBITDA 3.58, Qantas’ relative valuation is at appropriate level vs industry peers. Upon considering the valuation and all the factors discussed, we hold a Neutral outlook for Qantas
+
+We estimate the intrinsic value of Kimball to be $16.33 for our base case through the DCF model. The current share price is $11.30, trading at a discount of 30.8% to its intrinsic value. Even the pessimistic case intrinsic value $12.86 is at premium to the market price. Kimball’s trailing P/E (10x) is substantially lower than the average P/E of industry peers (15.1x). The trailing EV/EBITDA of Kimball is (4.3x), also lower than the industry average (7.7x). Using a 50% P/E & EV/EBITDA methodology of industry peers’ averages and applying to Kimball’s trailing $1.11 EPS and $72.65M EBITDA, the fair price is $16.9 based on relative valuation. Both DCF and relative valuation indicate that Kimball is undervalued. Considering the valuation in conjunction with the key concerns and the lacklustre industry, we hold a Weak Positive outlook for Kimball International.
 
 ## Risks
-- Inherent risks in the airline industry: volatility in fuel price and foreign exchange, increasing intensity of competition, exposure to the fluctuation of economy, irreducible risks arising from exogenous events.
-- Direct impact of COVID-19: possibility of more prolonged crisis than expected, uncertainty of pace of recovery, significant labour surplus, increased debt load, uncertainty of further debt/equity raising.
+
+* Extremely competitive industry: tight margins, relatively low barriers to entry,
+
+  low concentration with few dominant firms with many small firms
+* The direct impact of Covid-19, uncertain economic climate driving commodity
+
+  price up, success of recent management restructuring is uncertain.
 
 ## Did you find it interesting?
-[Download the full report](/uploads/2017/11/14/Qantas.pdf)
 
-## Team
-
-- [Jonathan Low](/about/jonathan/)
-- [Corey Guangzhen Jin ](/about/corey/)
-- [Simon Lim Yit Xiang](/about/simon/)
-- [Zherui Li](/about/zheuri-li/)
+[Download the full report](/uploads/2021/04/14/kimball-final.pdf)
