@@ -5,10 +5,9 @@ categories:
 - airways
 - research
 description: Learn the happenings at Qantas
-banner_image: "/uploads/2018/02/17/airways.jpg"
+banner_image: "/uploads/2021/04/14/screenshot-2021-04-14-212726.png"
 sub_heading: Learn the happenings at Qantas
 tags:
-- engineering
 - research
 slug: ''
 
